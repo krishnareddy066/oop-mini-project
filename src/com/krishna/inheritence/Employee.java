@@ -1,4 +1,4 @@
-package com.krishna.lecture3.inheritence;
+package com.krishna.inheritence;
 
 public class Employee {
     String name;
